@@ -1,7 +1,7 @@
 import { Container } from "@/ui/components/container/container";
 import { Typography } from "@/ui/components/typography/typography";
 import Image from "next/image";
-import studentImage from '../../../../public/OIP (4).jpg'
+import studentImage from '../../../../public/Revisao-de-Literatura-Exemplo.jpg'
 export default function VisionSection(){
     return(
         <Container className=" container flex flex-col-reverse lg:flex-row-reverse max-w-full lg:justify-between  items-center gap-8 lg:my-10 p-8 ">
